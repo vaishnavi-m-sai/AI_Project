@@ -1,9 +1,7 @@
 
-## Facial Emotion Detection
+# Facial Emotion Detection
 
-Facial Emotion Detection using Machine Learning Algorithms.
-
-# Authors:
+## Authors:
 •	Sai Deekshith Miyapuram
 •	Vaishnavi Malapati Sai
 
