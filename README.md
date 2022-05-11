@@ -2,17 +2,17 @@
 # Facial Emotion Detection
 
 ## Authors:
-•	Sai Deekshith Miyapuram
-•	Vaishnavi Malapati Sai
+*	Sai Deekshith Miyapuram
+*	Vaishnavi Malapati Sai
 
 ## Softwares & Environments Required:
-•	Python 3.6
-•	Colab Notebook
-•	Numpy
-•	Pandas
-•	Keras
-•	Matplotlib
-•	Tensorflow
+*	Python 3.6
+*	Colab Notebook
+*	Pandas
+*	Numpy
+*	Keras
+*	Matplotlib
+*	Tensorflow
 
 ## Data:
 The dataset can be downloaded from here.
@@ -24,13 +24,13 @@ The main objective of this project is to identify various facial emotions like h
 
 Project execution steps are follows:
 
-• The colab file is executed to train and test the model.
-• The source to extract data is included in the .ipynb file.
-• Training and visualizing the data
-• Testing the data
-• Evaluating model performance
-• Download the best_model.h5 file after running the .ipynb file and add it to the source folder.
-• Run the videotester.py file in the command prompt to get the live demo through webcam.
+* The colab file is executed to train and test the model.
+* The source to extract data is included in the .ipynb file.
+* Training and visualizing the data
+* Testing the data
+* Evaluating model performance
+* Download the best_model.h5 file after running the .ipynb file and add it to the source folder.
+* Run the videotester.py file in the command prompt to get the live demo through webcam.
 
 
 ## Results:
