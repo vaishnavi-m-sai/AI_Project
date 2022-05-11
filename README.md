@@ -24,12 +24,13 @@ The main objective of this project is to identify various facial emotions like h
 
 Project execution steps are follows:
 
-• Data Collection
+• The colab file is executed to train and test the model.
+• The source to extract data is included in the .ipynb file.
 • Training and visualizing the data
 • Testing the data
 • Evaluating model performance
-• Download the 
-• Live demo through webcam
+• Download the best_model.h5 file after running the .ipynb file and add it to the source folder.
+• Run the videotester.py file in the command prompt to get the live demo through webcam.
 
 
 ## Results:
