@@ -34,11 +34,12 @@ Project execution steps are follows:
 • Live demo through webcam
 
 
-# Results:
-Accuracy
+## Results:
+#Accuracy
+
 ![Unknown](https://user-images.githubusercontent.com/44611193/167750880-3257f058-7482-40ca-88a2-c90177709edf.png)
 
-Loss:
+#Loss:
 ![Unknown-2](https://user-images.githubusercontent.com/44611193/167750919-3ee5f262-97d8-4f4c-996b-93a097793007.png)
 
 
